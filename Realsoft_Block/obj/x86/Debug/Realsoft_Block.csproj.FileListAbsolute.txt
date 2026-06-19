@@ -1,0 +1,39 @@
+C:\Documents and Settings\Administrador\meus documentos\visual studio 2010\Projects\Realsoft_Block\Realsoft_Block\bin\Debug\Realsoft_Block.exe
+C:\Documents and Settings\Administrador\meus documentos\visual studio 2010\Projects\Realsoft_Block\Realsoft_Block\bin\Debug\Realsoft_Block.pdb
+C:\Documents and Settings\Administrador\meus documentos\visual studio 2010\Projects\Realsoft_Block\Realsoft_Block\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\meus documentos\visual studio 2010\Projects\Realsoft_Block\Realsoft_Block\obj\x86\Debug\Realsoft_Block.Form1.resources
+C:\Documents and Settings\Administrador\meus documentos\visual studio 2010\Projects\Realsoft_Block\Realsoft_Block\obj\x86\Debug\Realsoft_Block.Properties.Resources.resources
+C:\Documents and Settings\Administrador\meus documentos\visual studio 2010\Projects\Realsoft_Block\Realsoft_Block\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\meus documentos\visual studio 2010\Projects\Realsoft_Block\Realsoft_Block\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\meus documentos\visual studio 2010\Projects\Realsoft_Block\Realsoft_Block\obj\x86\Debug\Realsoft_Block.exe
+C:\Documents and Settings\Administrador\meus documentos\visual studio 2010\Projects\Realsoft_Block\Realsoft_Block\obj\x86\Debug\Realsoft_Block.pdb
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2010\Projects\Realsoft_Block\Realsoft_Block\obj\x86\Debug\Realsoft_Block.Form2.resources
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2010\Projects\Realsoft_Block\Realsoft_Block\obj\x86\Debug\Realsoft_Block.Form3.resources
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2010\Projects\Realsoft_Block\Realsoft_Block\bin\Debug\Realsoft_Block.exe.config
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2010\Projects\Realsoft_Block\Realsoft_Block\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2010\Projects\Realsoft_Block\Realsoft_Block\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Realsoft_Block\Realsoft_Block\bin\Debug\Realsoft_Block.exe.config
+D:\Realsoft_Block\Realsoft_Block\obj\x86\Debug\Realsoft_Block.exe
+D:\Realsoft_Block\Realsoft_Block\obj\x86\Debug\Realsoft_Block.pdb
+D:\Realsoft_Block\Realsoft_Block\bin\Debug\Realsoft_Block.exe
+D:\Realsoft_Block\Realsoft_Block\bin\Debug\Realsoft_Block.pdb
+D:\Realsoft_Block\Realsoft_Block\obj\x86\Debug\Realsoft_Block.Form1.resources
+D:\Realsoft_Block\Realsoft_Block\obj\x86\Debug\Realsoft_Block.Form2.resources
+D:\Realsoft_Block\Realsoft_Block\obj\x86\Debug\Realsoft_Block.Form3.resources
+D:\Realsoft_Block\Realsoft_Block\obj\x86\Debug\Realsoft_Block.Properties.Resources.resources
+F:\Realsoft_Block\Realsoft_Block\bin\Debug\Realsoft_Block.exe.config
+F:\Realsoft_Block\Realsoft_Block\obj\x86\Debug\Realsoft_Block.exe
+F:\Realsoft_Block\Realsoft_Block\obj\x86\Debug\Realsoft_Block.pdb
+D:\Realsoft_Block\Realsoft_Block\obj\x86\Debug\Realsoft_Block.csprojResolveAssemblyReference.cache
+D:\Realsoft_Block\Realsoft_Block\obj\x86\Debug\Realsoft_Block.csproj.GenerateResource.Cache
+C:\Users\Fusion\OneDrive\Projetos\Realsoft_Block\Realsoft_Block\bin\Debug\Realsoft_Block.exe.config
+C:\Users\Fusion\OneDrive\Projetos\Realsoft_Block\Realsoft_Block\obj\x86\Debug\Realsoft_Block.exe
+C:\Users\Fusion\OneDrive\Projetos\Realsoft_Block\Realsoft_Block\obj\x86\Debug\Realsoft_Block.pdb
+C:\Users\Fusion\OneDrive\Projetos\Realsoft_Block\Realsoft_Block\bin\Debug\Realsoft_Block.exe
+C:\Users\Fusion\OneDrive\Projetos\Realsoft_Block\Realsoft_Block\bin\Debug\Realsoft_Block.pdb
+C:\Users\Fusion\OneDrive\Projetos\Realsoft_Block\Realsoft_Block\obj\x86\Debug\Realsoft_Block.csprojResolveAssemblyReference.cache
+C:\Users\Fusion\OneDrive\Projetos\Realsoft_Block\Realsoft_Block\obj\x86\Debug\Realsoft_Block.Form1.resources
+C:\Users\Fusion\OneDrive\Projetos\Realsoft_Block\Realsoft_Block\obj\x86\Debug\Realsoft_Block.Form2.resources
+C:\Users\Fusion\OneDrive\Projetos\Realsoft_Block\Realsoft_Block\obj\x86\Debug\Realsoft_Block.Form3.resources
+C:\Users\Fusion\OneDrive\Projetos\Realsoft_Block\Realsoft_Block\obj\x86\Debug\Realsoft_Block.Properties.Resources.resources
+C:\Users\Fusion\OneDrive\Projetos\Realsoft_Block\Realsoft_Block\obj\x86\Debug\Realsoft_Block.csproj.GenerateResource.Cache

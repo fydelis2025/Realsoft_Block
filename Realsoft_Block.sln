@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Realsoft_Block", "Realsoft_Block\Realsoft_Block.csproj", "{3BF7D41E-142D-4ADC-BDF9-22ACA8026157}"
+	ProjectSection(ProjectDependencies) = postProject
+		{8B10D9E7-0F45-4585-B58D-8E998EEDA76C} = {8B10D9E7-0F45-4585-B58D-8E998EEDA76C}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Realsoft_BlockCliente", "Realsoft_BlockCliente\Realsoft_BlockCliente.csproj", "{8B10D9E7-0F45-4585-B58D-8E998EEDA76C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BF7D41E-142D-4ADC-BDF9-22ACA8026157}.Debug|x86.ActiveCfg = Debug|x86
+		{3BF7D41E-142D-4ADC-BDF9-22ACA8026157}.Debug|x86.Build.0 = Debug|x86
+		{3BF7D41E-142D-4ADC-BDF9-22ACA8026157}.Release|x86.ActiveCfg = Release|x86
+		{3BF7D41E-142D-4ADC-BDF9-22ACA8026157}.Release|x86.Build.0 = Release|x86
+		{8B10D9E7-0F45-4585-B58D-8E998EEDA76C}.Debug|x86.ActiveCfg = Debug|x86
+		{8B10D9E7-0F45-4585-B58D-8E998EEDA76C}.Debug|x86.Build.0 = Debug|x86
+		{8B10D9E7-0F45-4585-B58D-8E998EEDA76C}.Release|x86.ActiveCfg = Release|x86
+		{8B10D9E7-0F45-4585-B58D-8E998EEDA76C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
